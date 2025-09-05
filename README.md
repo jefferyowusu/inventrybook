@@ -1,1 +1,1 @@
-This project ia about an inventory bool written in C++ language.
+This project is about an inventory bool written in C++ language.
